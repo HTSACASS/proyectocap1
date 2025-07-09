@@ -1,5 +1,5 @@
 ola mundo aquí estamos
 aquí se modifico algo
 ZN +
-aquí se modifico con los parámetros stablecidos
+aquí se modifico con los parámetros establecidos
 
