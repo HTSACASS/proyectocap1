@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio desde rama main
+=======
+Linea de rama taller1
+>>>>>>> taller1
